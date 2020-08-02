@@ -400,6 +400,6 @@ dex_import {
 dex_import {
 	name: "qti-telephony-common",
 	owner: "lge",
-	jars: ["proprietary/framework/qti-telephony-common.jar"],
+	jars: ["proprietary/product/framework/qti-telephony-common.jar"],
 }
 
